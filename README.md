@@ -1,5 +1,7 @@
 # 🧪 PrivySDK Flutter Starter App
 
+> **This repository is archived.** For up-to-date examples, please visit [github.com/privy-io/examples](https://github.com/privy-io/examples).
+
 This is a minimal Flutter starter app demonstrating the base functionality of the [PrivySDK](https://docs.privy.io/basics/flutter/quickstart) for authentication and user management.
 
 ## 🚀 Features
